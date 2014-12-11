@@ -1,7 +1,7 @@
 sugarexample
 ==========
 
-[![Build Status](https://travis-ci.org/mozilla/sugarexample.svg?branch=master)](https://travis-ci.org/mozilla/sugarexample)
+[![Build Status](https://travis-ci.org/peterbe/sugarexample.svg?branch=master)](https://travis-ci.org/peterbe/sugarexample)
 
 Docker for development
 ----------------------
