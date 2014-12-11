@@ -1,0 +1,5 @@
+[run]
+source = sugarexample
+
+[report]
+omit = */migrations/*
